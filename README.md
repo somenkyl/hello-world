@@ -1,6 +1,6 @@
 # hello-world
 
-my name is somenkyl
+my name is yiunso
 
 i've just started learning how to use github
 
